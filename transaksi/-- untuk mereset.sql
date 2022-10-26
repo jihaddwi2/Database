@@ -1,0 +1,2 @@
+-- untuk mereset
+truncate transaksi;
